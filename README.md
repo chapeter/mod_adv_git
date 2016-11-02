@@ -210,7 +210,7 @@ git merge --abort
 
 * another way to merge changes between branches
 * apply all commits from one branch to another
-* syncing changes to a a feature branch
+* syncing changes to a feature branch
 
 
 [item]: # (/slide)
